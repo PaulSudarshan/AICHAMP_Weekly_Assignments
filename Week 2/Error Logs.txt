@@ -1,0 +1,5 @@
+1) Extracting full title of book without ellipsis.
+2) Extracting the book details from table and storing them as separate features like UCN etc.
+3) Finding the full image URL.
+
+OUTCOME : I was able to solve most of the issues by following the top to down approach of extracting through tags sequentially.
