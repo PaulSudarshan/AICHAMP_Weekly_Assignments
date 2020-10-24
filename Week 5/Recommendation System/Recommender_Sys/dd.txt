@@ -1,0 +1,12 @@
+hello User 
+The Movie You Should Watched Next and their corresponding ratings are 
+Mighty Aphrodite 4.0
+Postman, The (Postino, Il) 3.67
+Beautiful Girls 3.76
+Walking and Talking 4.25
+Delicatessen 3.58
+Manhattan 3.67
+Mirror Has Two Faces, The 3.77
+Fools Rush In 3.85
+Brassed Off 3.85
+For Roseanna (Roseanna's Grave) 3.85
